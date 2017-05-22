@@ -7,3 +7,9 @@
 /build
 /captures
 .externalNativeBuild
+libs/
+src/main/java/com/android/zouky/mylibrary/callback/
+src/main/java/com/android/zouky/mylibrary/model/
+src/main/java/com/android/zouky/mylibrary/net/
+src/main/java/com/android/zouky/mylibrary/view/
+src/main/res/drawable/
